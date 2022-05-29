@@ -1,0 +1,13 @@
+Buoc 1 : Viet ham dieu khien motor
+  - co 3 trang thai :
+    + Quay cung chieu
+    + Quay nguoc chieu
+    + dung
+  => Tao mot enum
+Bản chất của động cơ vàng
+- in1 cấp xung 1 , in 2 cấp pwm, en nối đất thì sẽ quay thuận
+và tốc độ phụ thuộc vào xung pwm ở in2
+- tương tự khi cấp in1 = 0, in2 cấp xung pwm sẽ quay ngược chiều
+kim đồng hồ
+
+Buoc 2: viet ham dk car (gom 2 motor)
